@@ -8,19 +8,19 @@ This repository documents what I'm learning, what I've completed, and the projec
 
 ## 🧭 Navigation
 
-###  Foundations
+### 🌱 Foundations
 - [Foundations](FOUNDATIONS/)
 
-###  Core Development
+### 💻 Core Development
 - [Python](PYTHON/)
 - [Git](GIT/)
 - [Linux](LINUX/)
 
-###  Computer Science
+### 🧠 Computer Science
 - [Computer Science](COMPUTER-SCIENCE/)
 - [Mathematics](MATHEMATICS/)
 
-###  Others
+### 📚 Other
 - [About](ABOUT/)
 - [Resources](RESOURCES/)
 
