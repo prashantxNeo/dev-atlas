@@ -1,5 +1,3 @@
-# dev-atlas
-
 # 🗺️ Dev Atlas
 
 > A map of my software engineering journey.
