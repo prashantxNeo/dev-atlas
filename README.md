@@ -37,7 +37,7 @@ This repository documents what I'm learning, what I've completed, and the projec
 
 Projects live in their own repositories and will be linked from the relevant sections as they are built.
 
----
+---_-
 
 ## 📌 Philosophy
 
